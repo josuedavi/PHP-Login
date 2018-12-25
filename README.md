@@ -2,6 +2,7 @@ Description: Uses PHP to allow users to register, login, then access a secure pa
 <br/>
 Link to download files: https://drive.google.com/file/d/1tTjezI7XTTVSiAU9IqfXoW775bVHyTnr/view
 <br/>
+<hr/>
 <h1>Live Login Working</h1>
 <img src="login.gif"/>
 <br/>
